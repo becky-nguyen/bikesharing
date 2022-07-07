@@ -1,6 +1,6 @@
 # bikesharing
 
-[LINK TO DASHBOARD](https://public.tableau.com/views/Module14_Challenge_16570730525180/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[LINK TO DASHBOARD](https://public.tableau.com/views/Module14_Challenge_16570730525180/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 The purpose of this study is to analyze citibike usage in New York city to compare how we would start up our own similar business in Des Moines, Iowa. 
